@@ -1,0 +1,29 @@
+id: I95218E57
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:52:41.608868'
+last_modified: '2022-05-31T06:52:41.608874'
+parser: null
+source_metadata:
+  title: Pema Lingpa Series
+  language: it
+  description: 'Texts and revelations by the tertön Pema Lingpa (padma gling pa, 1450–1521):'
+  volume:
+    f2A42:
+      title: Guru Yoga of the Great Tertön Pema Lingpa
+      base_file: f2A42.txt
+      order: 1
+      parent: Guru Yoga
+    fB845:
+      title: Yeshe Tsogyal's Prayer
+      base_file: fB845.txt
+      order: 2
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
